@@ -1,4 +1,4 @@
-setTimeout(()=> {
+(setTimeout(()=> {
     const b = document.getElementById('delayedListener');
     b.addEventListener('click', () => {
         let c = document.getElementById("elementSpawnContainer");
@@ -6,4 +6,4 @@ setTimeout(()=> {
         d.setAttribute('id', 'appended-element')
         c.appendChild(d);
     })
-})
+}))()
