@@ -9,7 +9,7 @@ div#appended-element {
 }
 
 div#attachedAndStable {
-    height: 50px;
+    height: 250px;
     width: 150px;
     border: 1px solid black;
 }
