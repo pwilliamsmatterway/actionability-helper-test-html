@@ -7,3 +7,9 @@ div#appended-element {
     height: 50px;
     background-color: blue;
 }
+
+div#attachedAndStable {
+    height: 50px;
+    width: 150px;
+    border: 1px solid black;
+}
